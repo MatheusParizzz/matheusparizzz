@@ -3,4 +3,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🌱 I’m currently learning **JAVASCRIPT, NODE, SQL** 
-- 📫 How to reach me **matheusparizzz@gmail.com**
+- 📫 How to reach me **Matheusparizzz@gmail.com**
