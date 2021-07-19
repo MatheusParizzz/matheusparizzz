@@ -2,5 +2,5 @@
 <h3 align="center">A Technology Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🌱 I’m currently learning **JS, NODE, SQL** 
+- 🌱 I’m currently learning **JAVASCRIPT, NODE, SQL** 
 - 📫 How to reach me **matheusparizzz@gmail.com**
